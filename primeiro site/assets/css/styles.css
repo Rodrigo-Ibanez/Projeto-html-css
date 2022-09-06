@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Archivo:wght@900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskeville&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rubik+Glitch&display=swap");
+
+
+.capa {
+    height: 400px;
+    
+}
+
+h1 {
+    font-size: 4rem;
+    color: red;
+    text-align: center;
+    background: fixed;
+    background-color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+h2 {
+    color: rgb(161, 9, 9);
+    text-align: center;
+    background: fixed;
+    background-color: black;
+}
+
+.header-content p {
+    margin: 50px 0 80px;
+}
+
+header {
+    background-color: rgb(39, 3, 3);
+    min-height: 250px;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+
+}
+
+p,
+input,
+textarea,
+label {
+    font-family: "libre baskervillle", serif;
+    text-align: center;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+}
+audio{
+    background: fixed;
+    background-color: black;
+
+}
+
+
+
+
+
+
